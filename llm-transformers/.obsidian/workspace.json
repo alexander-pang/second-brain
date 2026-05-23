@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "lectures/03-encoders-decoders-attention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "03-encoders-decoders-attention"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "lectures/03-encoders-decoders-attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 03-encoders-decoders-attention"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "lectures/03-encoders-decoders-attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 03-encoders-decoders-attention"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "lectures/03-encoders-decoders-attention.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 03-encoders-decoders-attention"
             }
           }
         ]
@@ -185,11 +185,14 @@
   },
   "active": "cf4fc2d9cd717d80",
   "lastOpenFiles": [
+    "concepts/tokenization.md",
+    "concepts/attention.md",
+    "lectures/03-encoders-decoders-attention.md",
     "lectures/02-word2vec-embeddings.md",
+    "index.md",
     "lectures/01-language-representations.md",
     "logs/2026-05-22.md",
     "concepts/word2vec.md",
-    "concepts/tokenization.md",
     "concepts/encoder-only.md",
     "concepts/encoder-decoder.md",
     "concepts/decoder-only.md",
